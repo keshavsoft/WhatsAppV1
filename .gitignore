@@ -143,7 +143,6 @@ dist/
 
 KData/JSON/*
 publicDir/
-public/
 
 .vscode
 
